@@ -16,3 +16,7 @@ def custt(cust_id : int):
         "age": 56,
         "place": "janakpur"
     }
+
+
+
+    
